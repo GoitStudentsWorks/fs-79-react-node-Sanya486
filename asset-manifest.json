@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs-79-react-node-Sanya486/static/css/main.60c88901.css",
-    "main.js": "/fs-79-react-node-Sanya486/static/js/main.f6d0fb36.js",
+    "main.js": "/fs-79-react-node-Sanya486/static/js/main.72ad2287.js",
     "static/css/939.6f18010d.chunk.css": "/fs-79-react-node-Sanya486/static/css/939.6f18010d.chunk.css",
     "static/js/939.41ed68fb.chunk.js": "/fs-79-react-node-Sanya486/static/js/939.41ed68fb.chunk.js",
     "static/js/938.63403f72.chunk.js": "/fs-79-react-node-Sanya486/static/js/938.63403f72.chunk.js",
@@ -49,7 +49,7 @@
     "static/media/pagination_active.svg": "/fs-79-react-node-Sanya486/static/media/pagination_active.34d5b942ec8d2f4d4431.svg",
     "static/media/pagination_bullet.svg": "/fs-79-react-node-Sanya486/static/media/pagination_bullet.29245ca7cb84d94f9565.svg",
     "main.60c88901.css.map": "/fs-79-react-node-Sanya486/static/css/main.60c88901.css.map",
-    "main.f6d0fb36.js.map": "/fs-79-react-node-Sanya486/static/js/main.f6d0fb36.js.map",
+    "main.72ad2287.js.map": "/fs-79-react-node-Sanya486/static/js/main.72ad2287.js.map",
     "939.6f18010d.chunk.css.map": "/fs-79-react-node-Sanya486/static/css/939.6f18010d.chunk.css.map",
     "939.41ed68fb.chunk.js.map": "/fs-79-react-node-Sanya486/static/js/939.41ed68fb.chunk.js.map",
     "938.63403f72.chunk.js.map": "/fs-79-react-node-Sanya486/static/js/938.63403f72.chunk.js.map",
@@ -78,6 +78,6 @@
   },
   "entrypoints": [
     "static/css/main.60c88901.css",
-    "static/js/main.f6d0fb36.js"
+    "static/js/main.72ad2287.js"
   ]
 }
